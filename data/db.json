@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Senior React Developer",
       "salary": 50000,
-      "location": "London, UK"
-      
+      "location": "London, UK",
+      "img": "/data/images/job1.png"
     },
     {
       "id": 2,
