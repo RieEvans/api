@@ -5,21 +5,21 @@
       "title": "Senior React Developer",
       "salary": 50000,
       "location": "London, UK",
-      "img": "/data/images/job1.png"
+      "img": "https://fullscale.io/wp-content/uploads/2022/04/what-is-a-react-developer.png"
     },
     {
       "id": 2,
       "title": "Plumber",
       "salary": 40000,
       "location": "Bowser's Castle",
-      "img": "/data/images/job2.png"
+      "img": "https://img.freepik.com/premium-vector/plumber-mascot-full-body-illustration_44241-83.jpg?w=740"
     },
     {
       "id": 3,
       "title": "Gym Leader",
       "salary": 75000,
       "location": "Kanto Region",
-      "img": "/data/images/job3.png"
+      "img": "https://hips.hearstapps.com/hmg-prod/images/mh-trainer-2-1533576998.png?resize=1200:*"
     },
     {
       "id": 4,
