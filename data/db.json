@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Senior React Developer",
       "salary": 50000,
-      "location": "London, UK",
-      "img": "/data/images/job1.png"
+      "location": "London, UK"
+      
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "salary": 75000,
       "location": "Kanto Region",
       "img": "/data/images/job3.png"
-    }, 
+    },
     {
       "id": 4,
       "title": "Vue Developer",
@@ -41,7 +41,6 @@
       "salary": 50000,
       "location": "Berlin, Germany",
       "img": "/data/images/job5.png"
-
     },
     {
       "id": 7,
