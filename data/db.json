@@ -47,7 +47,7 @@
       "title": "Food Tester",
       "salary": 30000,
       "location": "London, UK",
-      "img": "job6.png"
+      "img": "/api/data/images/job6.png"
     }
   ]
 }
